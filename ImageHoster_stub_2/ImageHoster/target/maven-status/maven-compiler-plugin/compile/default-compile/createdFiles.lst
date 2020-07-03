@@ -1,0 +1,4 @@
+ImageHoster\model\Image.class
+ImageHoster\controller\HomeController.class
+ImageHoster\ImageHosterApplication.class
+ImageHoster\service\ImageService.class

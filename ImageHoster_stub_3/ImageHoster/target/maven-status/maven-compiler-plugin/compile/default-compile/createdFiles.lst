@@ -1,0 +1,8 @@
+ImageHoster\controller\UserController.class
+ImageHoster\model\User.class
+ImageHoster\service\UserService.class
+ImageHoster\ImageHosterApplication.class
+ImageHoster\model\Image.class
+ImageHoster\model\UserProfile.class
+ImageHoster\controller\HomeController.class
+ImageHoster\service\ImageService.class
